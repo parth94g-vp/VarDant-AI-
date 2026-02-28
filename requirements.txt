@@ -1,0 +1,37 @@
+# pandas
+# numpy
+# matplotlib
+# seaborn
+# scikit-learn
+# streamlit
+# tensorflow
+# librosa==0.10.1
+# joblib
+# torch
+# torchvision
+# sentence_transformers
+
+# pyserial
+# schedule
+
+# flask
+# flask_sqlalchemy
+# werkzeug
+
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+tensorflow==2.20.0
+librosa==0.10.1
+joblib
+torch
+torchvision
+sentence_transformers
+pyserial
+schedule
+flask
+flask_sqlalchemy
+werkzeug
