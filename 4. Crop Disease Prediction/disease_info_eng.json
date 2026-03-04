@@ -1,0 +1,519 @@
+{
+  "Apple_Healthy": {
+    "disease_name": "Healthy Apple Plant",
+    "what_is_it": "The apple plant is healthy and growing normally.",
+    "why_it_happens": "Good care, proper nutrition, and suitable weather.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Balanced water, nutrients, and sunlight.",
+    "symptoms": [
+      "Green healthy leaves",
+      "No spots or damage"
+    ],
+    "prevention": [
+      "Continue good farming practices",
+      "Regularly observe plants"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Keep following good care practices to maintain plant health."
+  },
+
+  "Apple_Rust": {
+    "disease_name": "Apple Rust",
+    "what_is_it": "A fungal disease that affects apple leaves and fruits.",
+    "why_it_happens": "Occurs due to fungus during warm and moist weather.",
+    "how_it_spreads": "Spreads through air by fungal spores.",
+    "favorable_conditions": "Warm temperature and high moisture.",
+    "symptoms": [
+      "Yellow or orange spots on leaves",
+      "Early leaf fall"
+    ],
+    "prevention": [
+      "Ensure good air circulation",
+      "Remove nearby infected plants"
+    ],
+    "treatment": [
+      "Spray recommended fungicide",
+      "Remove infected leaves"
+    ],
+    "farmer_advice": "Early spraying helps prevent heavy damage."
+  },
+
+  "Apple_Scab": {
+    "disease_name": "Apple Scab",
+    "what_is_it": "A common fungal disease of apple plants.",
+    "why_it_happens": "Develops in cool and wet weather.",
+    "how_it_spreads": "Spreads through rain and wind.",
+    "favorable_conditions": "Cool temperature with high humidity.",
+    "symptoms": [
+      "Dark scab-like spots on leaves",
+      "Rough marks on fruits"
+    ],
+    "prevention": [
+      "Remove fallen leaves",
+      "Avoid excess watering"
+    ],
+    "treatment": [
+      "Spray fungicide",
+      "Remove infected plant parts"
+    ],
+    "farmer_advice": "Keep orchard clean to reduce disease."
+  },
+
+  "Blueberry_Healthy": {
+    "disease_name": "Healthy Blueberry Plant",
+    "what_is_it": "Blueberry plant without any disease.",
+    "why_it_happens": "Proper soil and good plant care.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Acidic soil and good drainage.",
+    "symptoms": [
+      "Healthy green leaves"
+    ],
+    "prevention": [
+      "Maintain correct soil pH",
+      "Avoid water logging"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Regular monitoring keeps plants healthy."
+  },
+
+  "Cherry_Healthy": {
+    "disease_name": "Healthy Cherry Plant",
+    "what_is_it": "Cherry plant growing normally.",
+    "why_it_happens": "Good farm management and care.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Good sunlight and airflow.",
+    "symptoms": [
+      "Green leaves and healthy growth"
+    ],
+    "prevention": [
+      "Seasonal pruning",
+      "Balanced fertilization"
+    ],
+    "treatment": [
+      "No treatment needed"
+    ],
+    "farmer_advice": "Healthy plants give better yield."
+  },
+
+  "Corn_Rust": {
+    "disease_name": "Corn Rust",
+    "what_is_it": "A fungal disease affecting maize leaves.",
+    "why_it_happens": "Occurs due to warm and humid weather.",
+    "how_it_spreads": "Spreads through wind-borne spores.",
+    "favorable_conditions": "Warm weather with moisture.",
+    "symptoms": [
+      "Reddish-brown spots on leaves",
+      "Reduced plant growth"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Avoid excess nitrogen fertilizer"
+    ],
+    "treatment": [
+      "Spray fungicide if infection is severe"
+    ],
+    "farmer_advice": "Control early to avoid yield loss."
+  },
+
+  "Grape_Black_Rot": {
+    "disease_name": "Grape Black Rot",
+    "what_is_it": "A fungal disease affecting grape leaves and fruits.",
+    "why_it_happens": "Develops in warm and wet conditions.",
+    "how_it_spreads": "Spreads through rain and infected fruits.",
+    "favorable_conditions": "High humidity and warmth.",
+    "symptoms": [
+      "Brown spots on leaves",
+      "Black shriveled grapes"
+    ],
+    "prevention": [
+      "Remove infected fruits",
+      "Prune vines properly"
+    ],
+    "treatment": [
+      "Spray fungicide",
+      "Destroy infected parts"
+    ],
+    "farmer_advice": "Keep the field clean to control disease."
+  },
+
+  "Grape_Healthy": {
+    "disease_name": "Healthy Grape Plant",
+    "what_is_it": "Grape plant without disease.",
+    "why_it_happens": "Good vineyard care.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Dry climate and good airflow.",
+    "symptoms": [
+      "Healthy green leaves"
+    ],
+    "prevention": [
+      "Proper spacing",
+      "Regular pruning"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Healthy vines give quality grapes."
+  },
+
+  "Peach_Healthy": {
+    "disease_name": "Healthy Peach Plant",
+    "what_is_it": "Peach plant growing well without disease.",
+    "why_it_happens": "Proper care and nutrition.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Good sunlight and irrigation.",
+    "symptoms": [
+      "Green leaves and strong branches"
+    ],
+    "prevention": [
+      "Seasonal pruning",
+      "Balanced watering"
+    ],
+    "treatment": [
+      "No treatment needed"
+    ],
+    "farmer_advice": "Good care results in better fruit quality."
+  },
+
+  "Pepper_Bacterial_Spot": {
+    "disease_name": "Pepper Bacterial Spot",
+    "what_is_it": "A bacterial disease affecting pepper plants.",
+    "why_it_happens": "Caused by bacteria during warm and wet weather.",
+    "how_it_spreads": "Spreads through water splash and tools.",
+    "favorable_conditions": "High humidity and rainfall.",
+    "symptoms": [
+      "Small dark spots on leaves",
+      "Spots on fruits"
+    ],
+    "prevention": [
+      "Use healthy seeds",
+      "Avoid overhead watering"
+    ],
+    "treatment": [
+      "Spray copper-based medicine",
+      "Remove infected plants"
+    ],
+    "farmer_advice": "Clean tools regularly to prevent spread."
+  },
+
+  "Pepper_Healthy": {
+    "disease_name": "Healthy Pepper Plant",
+    "what_is_it": "Pepper plant without disease.",
+    "why_it_happens": "Good crop management.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Warm climate with proper watering.",
+    "symptoms": [
+      "Green leaves and healthy fruits"
+    ],
+    "prevention": [
+      "Regular pest checking",
+      "Balanced fertilizer use"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Healthy plants ensure good market value."
+  },
+
+  "Potato_Early_Blight": {
+    "disease_name": "Potato Early Blight",
+    "what_is_it": "A fungal disease of potato leaves.",
+    "why_it_happens": "Occurs in warm and humid conditions.",
+    "how_it_spreads": "Spreads through soil and rain splash.",
+    "favorable_conditions": "Warm weather with moisture.",
+    "symptoms": [
+      "Brown spots with rings on leaves",
+      "Leaves dry early"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Avoid wet leaves"
+    ],
+    "treatment": [
+      "Spray fungicide",
+      "Remove infected leaves"
+    ],
+    "farmer_advice": "Early spraying saves crop yield."
+  },
+
+  "Potato_Healthy": {
+    "disease_name": "Healthy Potato Plant",
+    "what_is_it": "Potato plant without disease.",
+    "why_it_happens": "Good seed quality and soil care.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Well-drained soil.",
+    "symptoms": [
+      "Green leaves and healthy stems"
+    ],
+    "prevention": [
+      "Use certified seed potatoes"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Healthy seed gives healthy harvest."
+  },
+
+  "Potato_Late_Blight": {
+    "disease_name": "Potato Late Blight",
+    "what_is_it": "A serious disease that can destroy the potato crop.",
+    "why_it_happens": "Develops in cool and wet weather.",
+    "how_it_spreads": "Spreads through wind and rain.",
+    "favorable_conditions": "Cool temperature and high humidity.",
+    "symptoms": [
+      "Dark wet spots on leaves",
+      "Fast leaf rotting"
+    ],
+    "prevention": [
+      "Use resistant varieties",
+      "Avoid water stagnation"
+    ],
+    "treatment": [
+      "Spray systemic fungicide",
+      "Remove infected plants"
+    ],
+    "farmer_advice": "Take action immediately when symptoms appear."
+  },
+
+  "Raspberry_Healthy": {
+    "disease_name": "Healthy Raspberry Plant",
+    "what_is_it": "Raspberry plant growing well.",
+    "why_it_happens": "Proper farm care.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Good sunlight and airflow.",
+    "symptoms": [
+      "Healthy green leaves"
+    ],
+    "prevention": [
+      "Regular pruning"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Healthy plants produce better fruits."
+  },
+
+  "Soybean_Healthy": {
+    "disease_name": "Healthy Soybean Crop",
+    "what_is_it": "Soybean plant without disease.",
+    "why_it_happens": "Good soil and crop management.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Warm climate and fertile soil.",
+    "symptoms": [
+      "Green healthy leaves"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Balanced fertilization"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Maintain soil fertility for good yield."
+  },
+
+  "Squash_Powdery_Mildew": {
+    "disease_name": "Squash Powdery Mildew",
+    "what_is_it": "A fungal disease forming white powder on leaves.",
+    "why_it_happens": "Occurs in dry weather with humid nights.",
+    "how_it_spreads": "Spreads through air.",
+    "favorable_conditions": "Dry days and humid nights.",
+    "symptoms": [
+      "White powder on leaves",
+      "Leaves turn yellow"
+    ],
+    "prevention": [
+      "Proper plant spacing",
+      "Good air circulation"
+    ],
+    "treatment": [
+      "Spray sulfur-based fungicide"
+    ],
+    "farmer_advice": "Do not delay treatment once seen."
+  },
+
+  "Strawberry_Healthy": {
+    "disease_name": "Healthy Strawberry Plant",
+    "what_is_it": "Strawberry plant growing well.",
+    "why_it_happens": "Proper care and soil condition.",
+    "how_it_spreads": "Not applicable.",
+    "favorable_conditions": "Cool climate and proper irrigation.",
+    "symptoms": [
+      "Healthy green leaves"
+    ],
+    "prevention": [
+      "Avoid overcrowding"
+    ],
+    "treatment": [
+      "No treatment required"
+    ],
+    "farmer_advice": "Healthy plants give sweet fruits."
+  },
+
+  "Tomato_Bacterial_Spot": {
+    "disease_name": "Tomato Bacterial Spot",
+    "what_is_it": "A bacterial disease affecting tomato plants.",
+    "why_it_happens": "Occurs in warm and wet weather.",
+    "how_it_spreads": "Spreads through rain splash and tools.",
+    "favorable_conditions": "Warm and wet climate.",
+    "symptoms": [
+      "Dark spots on leaves",
+      "Fruit damage"
+    ],
+    "prevention": [
+      "Use disease-free seeds",
+      "Avoid overhead watering"
+    ],
+    "treatment": [
+      "Spray copper-based pesticide"
+    ],
+    "farmer_advice": "Prevent water from splashing on leaves."
+  },
+
+  "Tomato_Early_Blight": {
+    "disease_name": "Tomato Early Blight",
+    "what_is_it": "A common fungal disease of tomato plants.",
+    "why_it_happens": "Occurs in warm and humid weather.",
+    "how_it_spreads": "Spreads through soil and rain.",
+    "favorable_conditions": "Warm temperature with moisture.",
+    "symptoms": [
+      "Brown spots with rings",
+      "Lower leaves affected first"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Remove old leaves"
+    ],
+    "treatment": [
+      "Spray fungicide"
+    ],
+    "farmer_advice": "Early detection reduces loss."
+  },
+
+  "Tomato_Late_Blight": {
+    "disease_name": "Tomato Late Blight",
+    "what_is_it": "A serious disease that can damage the whole tomato plant.",
+    "why_it_happens": "Develops when weather is cool and wet.",
+    "how_it_spreads": "Spreads through wind and rain water.",
+    "favorable_conditions": "Cool temperature and high humidity.",
+    "symptoms": [
+      "Large dark wet spots on leaves",
+      "White layer under leaves",
+      "Brown spots on fruits"
+    ],
+    "prevention": [
+      "Use healthy seedlings",
+      "Avoid watering on leaves",
+      "Ensure good air flow"
+    ],
+    "treatment": [
+      "Spray recommended fungicide",
+      "Remove infected plants"
+    ],
+    "farmer_advice": "Check fields daily during rainy season."
+  },
+
+  "Tomato_Leaf_Mold": {
+    "disease_name": "Tomato Leaf Mold",
+    "what_is_it": "A fungal disease affecting tomato leaves.",
+    "why_it_happens": "Caused by high humidity.",
+    "how_it_spreads": "Spreads through air.",
+    "favorable_conditions": "High humidity and poor ventilation.",
+    "symptoms": [
+      "Yellow spots on leaves",
+      "Gray mold under leaves"
+    ],
+    "prevention": [
+      "Improve air circulation",
+      "Reduce humidity"
+    ],
+    "treatment": [
+      "Spray fungicide"
+    ],
+    "farmer_advice": "Ventilation is very important."
+  },
+
+  "Tomato_Mosaic_Virus": {
+    "disease_name": "Tomato Mosaic Virus",
+    "what_is_it": "A viral disease affecting tomato plants.",
+    "why_it_happens": "Spreads through infected tools and hands.",
+    "how_it_spreads": "Spreads by touching infected plants.",
+    "favorable_conditions": "Any climate with infected plants.",
+    "symptoms": [
+      "Mosaic pattern on leaves",
+      "Leaf distortion"
+    ],
+    "prevention": [
+      "Disinfect tools",
+      "Use resistant varieties"
+    ],
+    "treatment": [
+      "Remove infected plants"
+    ],
+    "farmer_advice": "There is no cure, prevention is best."
+  },
+
+  "Tomato_Spider_Mites": {
+    "disease_name": "Tomato Spider Mites",
+    "what_is_it": "Damage caused by tiny insects on tomato leaves.",
+    "why_it_happens": "Occurs in hot and dry weather.",
+    "how_it_spreads": "Spreads through wind and plant contact.",
+    "favorable_conditions": "Hot and dry climate.",
+    "symptoms": [
+      "Yellow dots on leaves",
+      "Fine webbing on leaves"
+    ],
+    "prevention": [
+      "Maintain moisture",
+      "Inspect leaves regularly"
+    ],
+    "treatment": [
+      "Spray miticide",
+      "Use neem-based products"
+    ],
+    "farmer_advice": "Check underside of leaves frequently."
+  },
+
+  "Tomato_Target_Spot": {
+    "disease_name": "Tomato Target Spot",
+    "what_is_it": "A fungal disease affecting tomato leaves.",
+    "why_it_happens": "Occurs in warm and humid weather.",
+    "how_it_spreads": "Spreads through wind and rain.",
+    "favorable_conditions": "High humidity.",
+    "symptoms": [
+      "Brown circular spots",
+      "Leaves dry and fall"
+    ],
+    "prevention": [
+      "Crop rotation",
+      "Remove plant waste"
+    ],
+    "treatment": [
+      "Spray fungicide"
+    ],
+    "farmer_advice": "Clean field reduces disease spread."
+  },
+
+  "Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "Tomato Yellow Leaf Curl Virus",
+    "what_is_it": "A viral disease causing leaf curling and yellowing.",
+    "why_it_happens": "Spread by whiteflies.",
+    "how_it_spreads": "Through insect vectors.",
+    "favorable_conditions": "Warm climate with whiteflies.",
+    "symptoms": [
+      "Yellow curled leaves",
+      "Stunted plant growth"
+    ],
+    "prevention": [
+      "Control whiteflies",
+      "Use resistant varieties"
+    ],
+    "treatment": [
+      "Remove infected plants"
+    ],
+    "farmer_advice": "Insect control is very important."
+  }
+}

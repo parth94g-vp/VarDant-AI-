@@ -1,0 +1,484 @@
+{
+  "Apple_Healthy": {
+    "disease_name": "निरोगी सफरचंद झाड",
+    "what_is_it": "सफरचंदाचे झाड पूर्णपणे निरोगी आहे आणि चांगले वाढत आहे.",
+    "why_it_happens": "योग्य काळजी, संतुलित खत आणि अनुकूल हवामानामुळे.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "योग्य पाणी, पोषण आणि सूर्यप्रकाश.",
+    "symptoms": [
+      "हिरवी व ताजी पाने",
+      "कोणतेही डाग किंवा नुकसान नाही"
+    ],
+    "prevention": [
+      "चांगल्या शेती पद्धती सुरू ठेवा",
+      "झाडांची नियमित पाहणी करा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "योग्य काळजी घेतल्यास झाडे दीर्घकाळ निरोगी राहतात."
+  },
+
+  "Apple_Rust": {
+    "disease_name": "सफरचंद रस्ट रोग",
+    "what_is_it": "हा बुरशीजन्य रोग असून पाने व फळांवर परिणाम करतो.",
+    "why_it_happens": "उबदार आणि ओलसर हवामानात बुरशीमुळे होतो.",
+    "how_it_spreads": "हवेतून बुरशीचे कण पसरतात.",
+    "favorable_conditions": "उष्ण तापमान आणि जास्त ओलावा.",
+    "symptoms": [
+      "पानांवर पिवळे किंवा केशरी डाग",
+      "पाने लवकर गळणे"
+    ],
+    "prevention": [
+      "झाडांमध्ये योग्य अंतर ठेवा",
+      "संक्रमित झाडे काढून टाका"
+    ],
+    "treatment": [
+      "शिफारस केलेले बुरशीनाशक फवारणी करा"
+    ],
+    "farmer_advice": "लवकर उपचार केल्यास नुकसान टाळता येते."
+  },
+
+  "Apple_Scab": {
+    "disease_name": "सफरचंद स्कॅब रोग",
+    "what_is_it": "सफरचंदावर होणारा सामान्य बुरशीजन्य रोग.",
+    "why_it_happens": "थंड व ओलसर हवामानात होतो.",
+    "how_it_spreads": "पाऊस आणि वाऱ्यामुळे पसरतो.",
+    "favorable_conditions": "थंड हवामान आणि जास्त आर्द्रता.",
+    "symptoms": [
+      "पानांवर काळे खरबरीत डाग",
+      "फळांवर खडबडीत डाग"
+    ],
+    "prevention": [
+      "गाळलेली पाने काढून टाका",
+      "अधिक पाणी देणे टाळा"
+    ],
+    "treatment": [
+      "बुरशीनाशकाची फवारणी करा"
+    ],
+    "farmer_advice": "बाग स्वच्छ ठेवल्यास रोग कमी होतो."
+  },
+
+  "Blueberry_Healthy": {
+    "disease_name": "निरोगी ब्लूबेरी झाड",
+    "what_is_it": "ब्लूबेरीचे झाड रोगमुक्त आहे.",
+    "why_it_happens": "योग्य माती आणि चांगली काळजी.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "आंबट माती आणि चांगला निचरा.",
+    "symptoms": [
+      "निरोगी हिरवी पाने"
+    ],
+    "prevention": [
+      "मातीचा pH योग्य ठेवा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "नियमित देखभाल केल्यास झाड निरोगी राहते."
+  },
+
+  "Cherry_Healthy": {
+    "disease_name": "निरोगी चेरी झाड",
+    "what_is_it": "चेरीचे झाड सामान्यपणे वाढत आहे.",
+    "why_it_happens": "योग्य शेती व्यवस्थापन.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "पुरेसा सूर्यप्रकाश व हवा.",
+    "symptoms": [
+      "हिरवी पाने आणि चांगली वाढ"
+    ],
+    "prevention": [
+      "वेळेवर छाटणी करा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "निरोगी झाड चांगले उत्पादन देते."
+  },
+
+  "Corn_Rust": {
+    "disease_name": "मका रस्ट रोग",
+    "what_is_it": "मक्याच्या पानांवर होणारा बुरशीजन्य रोग.",
+    "why_it_happens": "उष्ण व दमट हवामानामुळे.",
+    "how_it_spreads": "वाऱ्यामुळे पसरतो.",
+    "favorable_conditions": "उष्णता व ओलावा.",
+    "symptoms": [
+      "पानांवर तांबूस-तपकिरी डाग",
+      "वाढ कमी होणे"
+    ],
+    "prevention": [
+      "रोगप्रतिरोधक वाण वापरा"
+    ],
+    "treatment": [
+      "जास्त संसर्ग असल्यास बुरशीनाशक फवारणी"
+    ],
+    "farmer_advice": "वेळीच नियंत्रण केल्यास नुकसान टळते."
+  },
+
+  "Grape_Black_Rot": {
+    "disease_name": "द्राक्ष ब्लॅक रॉट",
+    "what_is_it": "द्राक्षांच्या पानांवर व फळांवर होणारा बुरशीजन्य रोग.",
+    "why_it_happens": "उबदार व ओलसर हवामानात वाढतो.",
+    "how_it_spreads": "पाऊस व संक्रमित फळांमुळे.",
+    "favorable_conditions": "जास्त ओलावा.",
+    "symptoms": [
+      "पानांवर तपकिरी डाग",
+      "फळे काळी पडणे"
+    ],
+    "prevention": [
+      "संक्रमित फळे काढून टाका"
+    ],
+    "treatment": [
+      "बुरशीनाशक फवारणी करा"
+    ],
+    "farmer_advice": "बाग स्वच्छ ठेवल्यास रोग आटोक्यात राहतो."
+  },
+
+  "Grape_Healthy": {
+    "disease_name": "निरोगी द्राक्ष झाड",
+    "what_is_it": "द्राक्षाचे झाड रोगमुक्त आहे.",
+    "why_it_happens": "योग्य बाग व्यवस्थापन.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "कोरडे हवामान व हवा खेळती.",
+    "symptoms": [
+      "स्वच्छ हिरवी पाने"
+    ],
+    "prevention": [
+      "योग्य अंतर ठेवा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "निरोगी वेल चांगली द्राक्षे देते."
+  },
+
+  "Peach_Healthy": {
+    "disease_name": "निरोगी आडू झाड",
+    "what_is_it": "आडूचे झाड मजबूत व निरोगी आहे.",
+    "why_it_happens": "योग्य पोषण व काळजी.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "पुरेसा सूर्यप्रकाश व पाणी.",
+    "symptoms": [
+      "मजबूत फांद्या व हिरवी पाने"
+    ],
+    "prevention": [
+      "नियमित छाटणी"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "चांगली काळजी घेतल्यास दर्जेदार फळ मिळते."
+  },
+
+  "Pepper_Bacterial_Spot": {
+    "disease_name": "मिरची जीवाणू डाग रोग",
+    "what_is_it": "मिरचीवर होणारा जीवाणूजन्य रोग.",
+    "why_it_happens": "उबदार व ओलसर हवामानामुळे.",
+    "how_it_spreads": "पाण्याच्या शिंपड्यांमुळे व अवजारांमुळे.",
+    "favorable_conditions": "जास्त नमी.",
+    "symptoms": [
+      "पानांवर काळे छोटे डाग",
+      "फळांवर डाग"
+    ],
+    "prevention": [
+      "निरोगी बियाणे वापरा"
+    ],
+    "treatment": [
+      "कॉपर आधारित औषध फवारणी"
+    ],
+    "farmer_advice": "अवजारे स्वच्छ ठेवा."
+  },
+
+  "Pepper_Healthy": {
+    "disease_name": "निरोगी मिरची झाड",
+    "what_is_it": "मिरचीचे झाड रोगमुक्त आहे.",
+    "why_it_happens": "योग्य खत व पाणी.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "उबदार हवामान.",
+    "symptoms": [
+      "हिरवी पाने व चांगली फळधारणा"
+    ],
+    "prevention": [
+      "कीड नियंत्रण ठेवा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "निरोगी झाडाला चांगला बाजारभाव मिळतो."
+  },
+
+  "Potato_Early_Blight": {
+    "disease_name": "बटाटा अर्ली ब्लाइट",
+    "what_is_it": "बटाट्याच्या पानांवर होणारा बुरशीजन्य रोग.",
+    "why_it_happens": "उष्ण व दमट हवामानात.",
+    "how_it_spreads": "माती व पावसामुळे.",
+    "favorable_conditions": "उष्णता व ओलावा.",
+    "symptoms": [
+      "पानांवर गोल तपकिरी डाग",
+      "पाने लवकर वाळणे"
+    ],
+    "prevention": [
+      "पीक फेरपालट करा"
+    ],
+    "treatment": [
+      "बुरशीनाशक फवारणी"
+    ],
+    "farmer_advice": "वेळीच फवारणी केल्यास उत्पादन वाचते."
+  },
+
+  "Potato_Healthy": {
+    "disease_name": "निरोगी बटाटा झाड",
+    "what_is_it": "बटाट्याचे झाड निरोगी आहे.",
+    "why_it_happens": "चांगले बियाणे व माती.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "चांगला निचरा.",
+    "symptoms": [
+      "हिरवी पाने"
+    ],
+    "prevention": [
+      "प्रमाणित बियाणे वापरा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "निरोगी बियाणे चांगली फसल देते."
+  },
+
+  "Potato_Late_Blight": {
+    "disease_name": "बटाटा लेट ब्लाइट",
+    "what_is_it": "बटाट्याची गंभीर बुरशीजन्य रोग.",
+    "why_it_happens": "थंड व ओलसर हवामानात.",
+    "how_it_spreads": "वारा व पावसामुळे.",
+    "favorable_conditions": "थंड तापमान.",
+    "symptoms": [
+      "पानांवर काळे ओलसर डाग",
+      "पाने कुजणे"
+    ],
+    "prevention": [
+      "रोगप्रतिरोधक वाण"
+    ],
+    "treatment": [
+      "सिस्टमिक बुरशीनाशक फवारणी"
+    ],
+    "farmer_advice": "लक्षण दिसताच उपाय करा."
+  },
+
+  "Raspberry_Healthy": {
+    "disease_name": "निरोगी रास्पबेरी झाड",
+    "what_is_it": "रास्पबेरीचे झाड निरोगी आहे.",
+    "why_it_happens": "योग्य काळजी.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "सूर्यप्रकाश व हवा.",
+    "symptoms": [
+      "हिरवी पाने"
+    ],
+    "prevention": [
+      "नियमित छाटणी"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "निरोगी झाड चांगली फळधारणा करते."
+  },
+
+  "Soybean_Healthy": {
+    "disease_name": "निरोगी सोयाबीन पीक",
+    "what_is_it": "सोयाबीनचे पीक रोगमुक्त आहे.",
+    "why_it_happens": "योग्य माती व व्यवस्थापन.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "उपजाऊ माती.",
+    "symptoms": [
+      "हिरवी पाने"
+    ],
+    "prevention": [
+      "पीक फेरपालट"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "मातीची सुपीकता टिकवा."
+  },
+
+  "Squash_Powdery_Mildew": {
+    "disease_name": "स्क्वॅश पावडरी मिल्ड्यू",
+    "what_is_it": "पानांवर पांढरी पावडर दिसणारा बुरशीजन्य रोग.",
+    "why_it_happens": "कोरडे दिवस व दमट रात्री.",
+    "how_it_spreads": "हवेतून.",
+    "favorable_conditions": "दमट हवामान.",
+    "symptoms": [
+      "पांढरी पावडर",
+      "पाने पिवळी होणे"
+    ],
+    "prevention": [
+      "योग्य अंतर ठेवा"
+    ],
+    "treatment": [
+      "सल्फर फवारणी"
+    ],
+    "farmer_advice": "लवकर उपचार करा."
+  },
+
+  "Strawberry_Healthy": {
+    "disease_name": "निरोगी स्ट्रॉबेरी झाड",
+    "what_is_it": "स्ट्रॉबेरीचे झाड निरोगी आहे.",
+    "why_it_happens": "योग्य काळजी.",
+    "how_it_spreads": "लागू नाही.",
+    "favorable_conditions": "थंड हवामान.",
+    "symptoms": [
+      "हिरवी पाने"
+    ],
+    "prevention": [
+      "अधिक गर्दी टाळा"
+    ],
+    "treatment": [
+      "उपचाराची गरज नाही"
+    ],
+    "farmer_advice": "निरोगी झाड चांगली फळे देते."
+  },
+
+  "Tomato_Bacterial_Spot": {
+    "disease_name": "टोमॅटो जीवाणू डाग रोग",
+    "what_is_it": "टोमॅटोवरील जीवाणूजन्य रोग.",
+    "why_it_happens": "ओलसर व उबदार हवामान.",
+    "how_it_spreads": "पाणी व अवजारे.",
+    "favorable_conditions": "जास्त नमी.",
+    "symptoms": [
+      "पानांवर काळे डाग"
+    ],
+    "prevention": [
+      "रोगमुक्त बियाणे"
+    ],
+    "treatment": [
+      "कॉपर फवारणी"
+    ],
+    "farmer_advice": "पाण्याची उडण टाळा."
+  },
+
+  "Tomato_Early_Blight": {
+    "disease_name": "टोमॅटो अर्ली ब्लाइट",
+    "what_is_it": "टोमॅटोचा सामान्य बुरशीजन्य रोग.",
+    "why_it_happens": "उष्ण व दमट हवामान.",
+    "how_it_spreads": "माती व पावसामुळे.",
+    "favorable_conditions": "ओलावा.",
+    "symptoms": [
+      "पानांवर गोल तपकिरी डाग"
+    ],
+    "prevention": [
+      "पीक फेरपालट"
+    ],
+    "treatment": [
+      "बुरशीनाशक फवारणी"
+    ],
+    "farmer_advice": "वेळीच ओळख महत्त्वाची."
+  },
+
+  "Tomato_Late_Blight": {
+    "disease_name": "टोमॅटो लेट ब्लाइट",
+    "what_is_it": "टोमॅटोचा अतिशय गंभीर रोग.",
+    "why_it_happens": "थंड व ओलसर हवामान.",
+    "how_it_spreads": "वारा व पाऊस.",
+    "favorable_conditions": "जास्त आर्द्रता.",
+    "symptoms": [
+      "मोठे काळे ओलसर डाग",
+      "पाने कुजणे"
+    ],
+    "prevention": [
+      "निरोगी रोपे"
+    ],
+    "treatment": [
+      "शिफारस केलेली फवारणी"
+    ],
+    "farmer_advice": "पावसाळ्यात रोज तपासणी करा."
+  },
+
+  "Tomato_Leaf_Mold": {
+    "disease_name": "टोमॅटो लीफ मोल्ड",
+    "what_is_it": "टोमॅटो पानांचा बुरशीजन्य रोग.",
+    "why_it_happens": "जास्त नमी.",
+    "how_it_spreads": "हवेतून.",
+    "favorable_conditions": "दमट वातावरण.",
+    "symptoms": [
+      "पानांवर पिवळे डाग"
+    ],
+    "prevention": [
+      "हवा खेळती ठेवा"
+    ],
+    "treatment": [
+      "बुरशीनाशक"
+    ],
+    "farmer_advice": "हवादार शेत ठेवा."
+  },
+
+  "Tomato_Mosaic_Virus": {
+    "disease_name": "टोमॅटो मोज़ेक विषाणू",
+    "what_is_it": "टोमॅटोवरील विषाणूजन्य रोग.",
+    "why_it_happens": "संक्रमित अवजारे.",
+    "how_it_spreads": "स्पर्शाने.",
+    "favorable_conditions": "संक्रमित झाडे.",
+    "symptoms": [
+      "पानांवर मोज़ेक नमुना"
+    ],
+    "prevention": [
+      "अवजारे निर्जंतुक करा"
+    ],
+    "treatment": [
+      "संक्रमित झाडे काढा"
+    ],
+    "farmer_advice": "उपचार नाही, प्रतिबंध हाच उपाय."
+  },
+
+  "Tomato_Spider_Mites": {
+    "disease_name": "टोमॅटो स्पायडर माइट",
+    "what_is_it": "सूक्ष्म किडींमुळे होणारे नुकसान.",
+    "why_it_happens": "गरम व कोरडे हवामान.",
+    "how_it_spreads": "वारा व संपर्क.",
+    "favorable_conditions": "कोरडे हवामान.",
+    "symptoms": [
+      "पानांवर पिवळे ठिपके",
+      "जाळे दिसणे"
+    ],
+    "prevention": [
+      "नमी ठेवा"
+    ],
+    "treatment": [
+      "माइटनाशक फवारणी"
+    ],
+    "farmer_advice": "पानांच्या खालची बाजू तपासा."
+  },
+
+  "Tomato_Target_Spot": {
+    "disease_name": "टोमॅटो टार्गेट स्पॉट",
+    "what_is_it": "टोमॅटो पानांचा बुरशीजन्य रोग.",
+    "why_it_happens": "दमट हवामान.",
+    "how_it_spreads": "वारा व पाऊस.",
+    "favorable_conditions": "जास्त नमी.",
+    "symptoms": [
+      "तपकिरी गोल डाग"
+    ],
+    "prevention": [
+      "शेत स्वच्छ ठेवा"
+    ],
+    "treatment": [
+      "बुरशीनाशक"
+    ],
+    "farmer_advice": "स्वच्छता फार महत्त्वाची."
+  },
+
+  "Tomato_Yellow_Leaf_Curl_Virus": {
+    "disease_name": "टोमॅटो पिवळा पान वळण विषाणू",
+    "what_is_it": "पाने पिवळी व वळणारी करणारा विषाणू.",
+    "why_it_happens": "पांढऱ्या माशीमुळे.",
+    "how_it_spreads": "कीटकांद्वारे.",
+    "favorable_conditions": "उष्ण हवामान.",
+    "symptoms": [
+      "पिवळी व वळलेली पाने",
+      "झाड खुंटणे"
+    ],
+    "prevention": [
+      "पांढरी माशी नियंत्रण"
+    ],
+    "treatment": [
+      "संक्रमित झाडे काढा"
+    ],
+    "farmer_advice": "कीड नियंत्रण आवश्यक आहे."
+  }
+}
