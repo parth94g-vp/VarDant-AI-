@@ -6,10 +6,15 @@ import requests
 # ===============================
 # Load Models
 # ===============================
-crop_model = joblib.load("crop_recommendation_model.pkl")
-soil_encoder = joblib.load("soil_encoder.pkl")
-crop_encoder = joblib.load("crop_encoder.pkl")
+import os
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+model_path = os.path.join(BASE_DIR, "crop_recommendation_model.pkl")
+
+crop_model = joblib.load(model_path)
+crop_encoder = joblib.load(os.path.join(BASE_DIR, "crop_encoder.pkl"))
+soil_encoder = joblib.load(os.path.join(BASE_DIR, "soil_encoder.pkl"))
 # ===============================
 # Firebase URL
 # ===============================
